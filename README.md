@@ -194,3 +194,4 @@ Feel free to add more language components or enhance existing ones with addition
 # RepoWithMultipleLanguages
 # sbom-direct-indirect-dependencies-main
 # sbom-direct-indirect-dependencies-main
+# sbom-direct-indirect-dependencies-main
