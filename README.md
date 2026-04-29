@@ -193,3 +193,4 @@ When generating SBOMs for this project, consider:
 Feel free to add more language components or enhance existing ones with additional dependencies or more complex usage patterns.
 # RepoWithMultipleLanguages
 # sbom-direct-indirect-dependencies-main
+# sbom-direct-indirect-dependencies-main
